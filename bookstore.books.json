@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6af59f5e3ecbaadd5c8b10de"
+  },
+  "title": "FastAPI: Modern Python Web Development",
+  "author": "Bill Lubanovic",
+  "year_published": 2023,
+  "publisher": "O'Reilly Media",
+  "isbn": "978-1098135508"
+},
+{
+  "_id": {
+    "$oid": "6af59f9b3ecbaadd5c8b10e0"
+  },
+  "title": "Designing Web APIs",
+  "author": "Brenda Jin, Saurabh Sahni, Amir Shevat",
+  "year_published": 2018,
+  "publisher": "O'Reilly Media",
+  "isbn": "978-1492026921"
+},
+{
+  "_id": {
+    "$oid": "6af5a49617e04859561bb6d8"
+  },
+  "title": "API Design Patterns",
+  "author": "JJ Geewax",
+  "year_published": 2022,
+  "publisher": "Manning Publications",
+  "isbn": "978-1617295850",
+  "edition": "2nd",
+  "format": "paperback"
+},
+{
+  "_id": {
+    "$oid": "6af5a4c317e04859561bb6d9"
+  },
+  "title": "Microservices Patterns",
+  "author": "Chris Richardson",
+  "year_published": 2018,
+  "publisher": "Manning Publications",
+  "isbn": "978-1617294549",
+  "format": "paperback"
+},
+{
+  "_id": {
+    "$oid": "6af5a4c317e04859561bb6da"
+  },
+  "title": "API Security in Action",
+  "author": "Neil Madden",
+  "year_published": 2020,
+  "publisher": "Manning Publications",
+  "isbn": "978-1617296024",
+  "format": "paperback"
+},
+{
+  "_id": {
+    "$oid": "6af5a6b317e04859561bb6db"
+  },
+  "title": "Python Crash Course",
+  "author": "Eric Matthes",
+  "year_published": 2023,
+  "publisher": "No Starch Press",
+  "format": "ebook",
+  "file_size_mb": 18.5,
+  "drm_free": true
+},
+{
+  "_id": {
+    "$oid": "6af5a6b317e04859561bb6dc"
+  },
+  "title": "Lincoln Coders Podcast: Season 1",
+  "author": "CMP2812 Teaching Team",
+  "year_published": 2026,
+  "publisher": "University of Lincoln",
+  "format": "audiobook",
+  "narrator": "CMP2812 Teaching Team",
+  "duration_minutes": 240
+}]
